@@ -1,4 +1,4 @@
-/* Install directly. */
+/* Install directly, do command: source path_to_this_file */
 
 DROP DATABASE IF EXISTS `union-heros`;
 CREATE DATABASE `union-heros`;
